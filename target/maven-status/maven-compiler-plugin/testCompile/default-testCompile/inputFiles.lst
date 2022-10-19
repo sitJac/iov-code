@@ -1,0 +1,13 @@
+/home/jack_xie/ota-update/src/test/java/testDiffPatch.java
+/home/jack_xie/ota-update/src/test/java/testFTP.java
+/home/jack_xie/ota-update/src/test/java/testSaveUrlAs.java
+/home/jack_xie/ota-update/src/test/java/testBigUpload.java
+/home/jack_xie/ota-update/src/test/java/testManifestFile.java
+/home/jack_xie/ota-update/src/test/java/testAESKey.java
+/home/jack_xie/ota-update/src/test/java/testLocalDiffPatch.java
+/home/jack_xie/ota-update/src/test/java/testGetOTA.java
+/home/jack_xie/ota-update/src/test/java/testSignature.java
+/home/jack_xie/ota-update/src/test/java/testUploadFileTo.java
+/home/jack_xie/ota-update/src/test/java/testZip.java
+/home/jack_xie/ota-update/src/test/java/testGetSHA256.java
+/home/jack_xie/ota-update/src/test/java/testSize.java

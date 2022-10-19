@@ -1,0 +1,15 @@
+testUploadFileTo.class
+testManifestFile$Manifest.class
+testLocalDiffPatch.class
+testManifestFile.class
+testGetOTA.class
+testSaveUrlAs.class
+testDiffPatch.class
+testGetSHA256.class
+testFTP.class
+testManifestFile$Manifest$packInformation.class
+testSize.class
+testSignature.class
+testZip.class
+testBigUpload.class
+testAESKey.class
